@@ -41,7 +41,7 @@ export const FeaturesIncluded = () => {
             The Tools We Replace
           </h2>
           <p className="section-description mt-5">
-            How much you would've paid if you didn't have us
+            How much you would&apos;ve paid if you didn&apos;t have us
           </p>
         </div>
         <div className="relative">
