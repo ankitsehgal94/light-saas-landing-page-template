@@ -24,11 +24,10 @@ export const ProductShowcase = () => {
             <div className="tag">Boost your productivity</div>
           </div>
           <h2 className="section-title mt-5">
-            A more effective way to track progress
+            Unlock Powerful Tools for Business Growth
           </h2>
           <p className="section-description mt-5">
-            Effortlessly turn your ideas into a fully functional, responsive,
-            SaaS website in just minutes with this template.
+            From CRM to marketing automation solutions, we provide everything you need to streamline your business and drive more leads.
           </p>
         </div>
         <div className="relative">
